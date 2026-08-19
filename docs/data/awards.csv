@@ -1,0 +1,163 @@
+year,edition,award,sponsor,winner,amount_or_benefit,confidence
+2006,2,Birincilik Odulu,Elginkan Vakfi / YFYI,PALMAX (Oyna ve Ogren),50000 YTL + 3yr office,R
+2006,2,Juri Ozel Odulu,YFYI,Kopru (Hayati Yeniden Okumak),10000 YTL,R
+2007,3,Birincilik Odulu,Elginkan Vakfi,JeoTim (PetCed),50000 TL,C
+2008,4,Teknoloji Odulu,Elginkan Vakfi,Biyonesil,75000 TL,C
+2008,4,Ozel Odul,Savunma Sanayii Mustesarligi,Biyonesil,50000 TL,C
+2008,4,Company rights in ODTU TEKNOKENT,ODTU TEKNOKENT,Biyonesil,3 years,C
+2009,5,Teknoloji Odulu,Elginkan Vakfi,Garajsoft,75000 TL,C
+2010,6,Buyuk Odul,Elginkan Vakfi,KURUP,75000 TL + 3yr office,C
+2010,6,Odul,Savunma Sanayii Mustesarligi,KURUP,,C
+2011,7,Teknoloji Odulu (1st),Elginkan Vakfi,Kaleidoscope (Kapileroskop),75000 TL + 3yr office,C
+2011,7,Buyuk Odul,Turk Telekom,Kaleidoscope,50000 TL,C
+2011,7,Savunma Sanayi Buyuk Odulu,SSM,Heavy Science (YEF),,C
+2011,7,Savunma 2nd,SSM,Nanosis (Mobial),10000 TL,C
+2011,7,Bilisim/Telekom 2nd,Turk Telekom,Powermems,,C
+2011,7,Ozel Odul,Intel,Powermems,25000 TL,C
+2011,7,Ozel Odul,OSTIM,Ultravision (Ultralight),25000 TL,C
+2012,8,Buyuk Odul,Elginkan Vakfi,Isirgan (Dentofast),100000 TL,C
+2012,8,Buyuk Odul,Savunma Sanayii Mustesarligi,TIM (Ari Gozu),75000 TL,C
+2012,8,Ozel Odul,DenizBank,TIM (Ari Gozu),25000 TL,C
+2012,8,Ozel Odul,Aselsan,TIM (Ari Gozu),25000 TL,C
+2012,8,Buyuk Odul,Turk Telekom,Javatar,75000 TL,C
+2012,8,Ikincilik,SSM,Algi,10000 TL,C
+2012,8,Ikincilik,Turk Telekom,PragmaCraft,10000 TL,C
+2012,8,Ozel Odul,Intel,PragmaCraft,25000 TL,C
+2012,8,Ozel Odul,OSTIM,OE,25000 TL,C
+2013,9,Buyuk Odul,Elginkan Vakfi,Prz Biyoteknoloji,100000 TL,C
+2013,9,Buyuk Odul,Savunma Sanayii Mustesarligi,Lazersan Elektronik,100000 TL,C
+2013,9,Buyuk Odul,Turkcell,Biomechanics,100000 TL,C
+2013,9,Ozel Odul,OSTIM,Turkish Airlines,25000 TL,C?
+2013,9,Ozel Odul,DenizBank,Orion,25000 TL,C
+2013,9,Ozel Odul,Aselsan,Easy Guitar,25000 TL,C
+2013,9,Ozel Odul,Calik YEDAS,Functional Surfaces,25000 TL,C
+2013,9,Ozel Odul,Calik YEDAS,Deeblab,25000 TL,C
+2013,9,Ikincilik Odulu,Savunma Sanayii Mustesarligi,Orion,10000 TL,C
+2013,9,Ikincilik Odulu,Turkcell,Lazersan Elektronik,10000 TL,C
+2013,9,Ozel Juri Odulu,OSTIM,Z5 Team,10000 TL,C
+2014,10,Buyuk Odul,Elginkan Vakfi,2C (AFB KIT),100000 TL,C
+2014,10,ABD Kampi Ozel Odulu,OSTIM,2C (AFB KIT),25000 TL,C
+2015,11,IDEA Genel Buyuk Odul,Elginkan Vakfi,Biyocip (GlucoKnow),100000 TL + 25000 TL US camp,R
+2015,11,ABD Kampi Ozel Odulu,ISSD,Kovan,25000 TL,R
+2015,11,ABD Kampi Ozel Odulu,OSTIM,The Light,25000 TL,R
+2015,11,PRO Bilisim Buyuk Odul,Intel,Scirobot,+25000 TL US camp,R
+2015,11,PRO DMTE Buyuk Odul,Arcelik,MACHINA,+25000 TL US camp,R
+2015,11,PRO Enerji Buyuk Odul,YEDAS,Hidroturbin,+25000 TL US camp,R
+2015,11,PRO Saglik Buyuk Odul,TEB,BTech,+25000 TL US camp,R
+2015,11,Bulut Bilisim,Microsoft,Scirobot,120000 USD Azure,R
+2015,11,Bulut Bilisim,Microsoft,Footballpreneurs,120000 USD Azure,R
+2015,11,Bulut Bilisim,IBM,Rocketscience,120000 USD Bluemix,R
+2015,11,Bulut Bilisim,IBM,Engelsiz Inovasyon Takimi,120000 USD Bluemix,R
+2015,11,Halk Oylamasi 1st,YFYI,Engelsiz Inovasyon Takimi,5000 TL,R
+2015,11,Halk Oylamasi 2nd,YFYI,The Light,2500 TL,R
+2015,11,Halk Oylamasi 3rd,YFYI,Footballpreneurs,2500 TL,R
+2016,12,Buyuk Odul,Elginkan Vakfi,Isiteks,100000 TL,C
+2016,12,ABD Kampi Odulu,Elginkan Vakfi,GBlock,,C
+2016,12,Buyuk Odul,SSM,Isiteks,,C
+2016,12,Buyuk Odul,Arcelik,Talassa,,C
+2016,12,Buyuk Odul,Microsoft,Wmedya Interactive (Ondestek),,C
+2016,12,Buyuk Odul,TEB,Indisera,,C
+2016,12,Ozel Odul,ODTU TEKNOKENT,Otsimo,,C
+2016,12,Ozel Odul,ODTU TEKNOKENT,Deplike,,C
+2016,12,Ozel Odul,Onedio,Planote,,C
+2016,12,Ozel Odul,Onedio,Otsimo,,C
+2016,12,Ozel Odul,Onedio,Deplike,,C
+2016,12,Ozel Odul,OSTIM,Momentum,,C
+2016,12,Siber Guvenlik / BEAM Teknoloji Ozel Odulu,BEAM Teknoloji,Wmedya Interactive,,C
+2016,12,Halk Oylamasi 1st,YFYI,Talassa,,C
+2016,12,Halk Oylamasi 2nd,YFYI,Temperfect,,C
+2016,12,Halk Oylamasi 3rd,YFYI,Matmas,,C
+2016,12,T-Jump Ventures Odulu,T-Jump,All award winners,4-week SF camp,C
+2017,13,Buyuk Odul,Elginkan Vakfi,Buyan,100000 TL,C
+2017,13,Halk Oylamasi,YFYI,Restearn,6874 votes,C
+2017,13,Uluslararasi Program Katilim Odulu,Elginkan Vakfi,Seyisco,,C
+2017,13,Ozel Odul,IE Business School,3D3 Teknoloji,,C
+2017,13,Ozel Odul,IE Business School,Mikro Biyosistemler,,C
+2017,13,Prototipleme Ozel Odulu,Btech,iCaked,,C
+2017,13,Reklam Destegi Ozel Odulu,Onedio,iCaked,,C
+2017,13,Reklam Destegi Ozel Odulu,Onedio,Comind,,C
+2017,13,Reklam Destegi Ozel Odulu,Onedio,Peerket,,C
+2017,13,Ozel Odul,KocSistem,Seyisco,,C
+2017,13,Odul,Savunma Sanayii Mustesarligi,Pyronome,,C
+2017,13,Odul,TEB,Kuantek,,C
+2017,13,Odul,ASO,Mikro Biyosistemler,,C
+2017,13,Odul,OSTIM,3D3 Teknoloji,,C
+2017,13,Yatirim,Growth Circuit,"iCaked;Peerket;Restearn;Seyisco;Trendoline;Comind;Webgazer",,C
+2018,14,Buyuk Odul,Elginkan Vakfi,Triwi,100000 TL,R
+2018,14,Ozel Odul,Onedio,Triwi,,R
+2018,14,Ozel Odul,Onedio,Ruwell,50000 TL,R
+2018,14,Ozel Odul,KocSistem,Areytech,30000 TL,R
+2018,14,Odul,Tupras,Sensgreen,25000 TL,R
+2018,14,Odul,Tupras,Hera,25000 TL,R
+2018,14,Odul,Savunma Sanayii Baskanligi,Dora,25000 TL,R
+2018,14,Odul,EPDK-ELDER,Safetech,25000 TL,R
+2018,14,Odul,EPDK-ELDER,Microsolar,25000 TL,R
+2018,14,Odul,TEB,B-PREG,25000 TL,R
+2018,14,Odul,OSTIM,Inovarium,15000 TL,R
+2018,14,Uluslararasilasma Odulu,Elginkan Vakfi,Inovarium,,C
+2018,14,Halk Oylamasi,YFYI,Ankabeta,7500 TL,R
+2018,14,Yatirim,Growth Circuit,"Blok-Z;Sensgreen;Warden Legal",,R
+2019,15,Nakit Odul,Elginkan Vakfi,Powder Tech,50000 TL,C
+2019,15,Nakit Odul,Elginkan Vakfi,Earfit,50000 TL,C
+2019,15,Uluslararasilasma Odulu,Elginkan Vakfi,EN/IO,,C
+2019,15,Nakit Odul,OSTIM,Powder Tech,20000 TL,C
+2019,15,Teknoloji Uretimi Ozel Odulu,Ostim Teknopark,Earfit,,C
+2019,15,Teknoloji Uretimi Ozel Odulu,Ostim Teknopark,Alp Imaging (Tiroidografi),,C
+2019,15,Teknoloji Uretimi Ozel Odulu,Ostim Teknopark,Notrino,,C
+2019,15,Reklam Destegi Ozel Odulu,Onedio,Tvoystol,50000 TL,C
+2019,15,Reklam Destegi Ozel Odulu,Onedio,Renty,50000 TL,C
+2019,15,Reklam Destegi Ozel Odulu,Onedio,Persona,50000 TL,C
+2019,15,Kargo indirimi,PTT Kargo,Tvoystol,40% for 1 year,C
+2019,15,Alisveris paketi,PTTAVM,Renty,20000 TL,C
+2019,15,Nakit Odul,Tupras,UlakFin,15000 TL,C
+2019,15,Nakit Odul,Elder,SRT - Solar Roof Track,25000 TL,C
+2019,15,Nakit Odul,Elder,Volte,25000 TL,C
+2019,15,Nakit Odul,TEB Girisim Bankaciligi,Fado,25000 TL,C
+2019,15,Teknoloji Paketi Ozel Odulu,KocSistem,Akillifon,30000 TL,C
+2020,16,Buyuk Odul,Elginkan Vakfi,Vivente,100000 TL,C
+2020,16,Uluslararasi Program Odulu,Elginkan Vakfi,Oculera,,C
+2020,16,Uluslararasilasma Odulu,ODTU TEKNOKENT,Bionova,,C
+2020,16,Uluslararasilasma Odulu,ODTU TEKNOKENT,Porion,,C
+2020,16,Uluslararasilasma Odulu,ODTU TEKNOKENT,Sweephy,,C
+2020,16,Uluslararasilasma Odulu,ODTU TEKNOKENT,HETES,,C
+2020,16,Reklam Destegi Ozel Odulu,Onedio,Case Future,,C
+2020,16,Reklam Destegi Ozel Odulu,Onedio,Favor,,C
+2020,16,Reklam Destegi Ozel Odulu,Onedio,Magfi,,C
+2020,16,Reklam Destegi Ozel Odulu,Onedio,WeeKiddo,,C
+2020,16,Ozel Odul,KocSistem,Sweephy,,C
+2020,16,Odul,OSTIM,iyiMakina,,C
+2020,16,Odul,TEB,Optio,,C
+2021,17,Buyuk Odul,Elginkan Vakfi,Biopols,,C
+2021,17,Buyuk Odul,Elginkan Vakfi,Ddosify,,C
+2021,17,Uluslararasilasma Odulu,Elginkan Vakfi,Distant,,C
+2022,18,Odul,Elginkan Vakfi,Bionome,100000 TL,C
+2022,18,Odul,Elginkan Vakfi,Coffenext,100000 TL,C
+2022,18,Uluslararasilasma Odulu,Elginkan Vakfi,Driven,,C
+2022,18,Ozel Odul,Onedio,Phoyer,,C
+2022,18,Ozel Odul,Onedio,Seften,,C
+2022,18,Ozel Odul,KocSistem,The Clico,,C
+2022,18,Ozel Odul,PTT AVM,The Clico,,C
+2022,18,Ozel Odul,VLMedia,SynthData,,C
+2022,18,Odul,OSTIM,Appvest,50000 TL,C
+2022,18,Uluslararasi Etkinlik Katilim Odulu,TEB,Coffenext,,C
+2023,19,Buyuk Odul,Elginkan Vakfi,Nefes IoT,,R
+2023,19,Ozel Odul,OSTIM / OSTIM GSYF / Ostim Teknopark,Some Carbon,,C
+2023,19,Ozel Odul,OSTIM / OSTIM GSYF / Ostim Teknopark,Rens,,C
+2024,20,Buyuk Odul,Elginkan Vakfi,Raw Banana Studio,,C
+2024,20,Ozel Odul,INVEST101,Agada Tech,,C
+2024,20,Ozel Odul,VLMedia,Datablast,,C
+2024,20,Tanitim Ozel Odulu,Onedio,Umigame Studios,,C
+2024,20,Tanitim Ozel Odulu,Onedio,Vignetim,,C
+2024,20,Prototipleme ve Uretim Ozel Odulu,Btech,Toprak Mekatronik,,C
+2024,20,Ozel Odul,Bites,Alter,,C
+2024,20,Ozel Odul,Techventure,Toprak Mekatronik,,C
+2024,20,Yatirim Odulu,Techventure,DATASCOPE.AI,,C
+2024,20,Ozel Odul,TEB,Viseur AI,,C
+2024,20,Kulucka Odulu,OSTIM / OSTIM GSYF / Ostim Teknopark,HyperCrops,,C
+2024,20,Ozel Odul,OSTIM / OSTIM GSYF / Ostim Teknopark,Step4,,C
+2024,20,Ozel Odul,ODTU TEKNOKENT,Meetmeat Biotechnology,,C
+2024,20,Ozel Odul,ODTU TEKNOKENT,Posamas,,C
+2024,20,Ozel Odul,ODTU TEKNOKENT,Hyperia,,C
+2025,21,Kulucka Odulu,ODTU TEKNOKENT,BugScribe,,C
+2025,21,Ozel Odul,Elginkan Vakfi,TiPS Cell Technologies,,C
+2025,21,Ozel Odul,Elginkan Vakfi,SunSight Labs,,C
