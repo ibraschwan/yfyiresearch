@@ -210,12 +210,44 @@ Machine-readable: [`data/editions.csv`](data/editions.csv), [`data/awards.csv`](
 | **Oculera** | 2020 | VR eye-health testing, CE + FDA approved, 1/5 the equipment cost. Elginkan International Program Award. |
 | **Kade Vision** | 2005 | One of the earliest YFYİ cheques — 10,000 TL seed. |
 
-### Where they are now (verified August 2026)
+### Where they are now (official roster, 2005–2024)
 
-173 reconstructed alumni are now listed after the gap search; 150 of them were fully
-status-checked in the original pass, and the newly surfaced 2006/2013/2024 names are
-conservatively marked UNVERIFIED until a dedicated status pass is run. Full tracker:
-[`10-startup-status.md`](10-startup-status.md) · [`data/startup-status.csv`](data/startup-status.csv).
+> **Superseded.** The reconstructed status table below has been overtaken by the program's
+> own roster — **261 startups with official status labels**, analysed in
+> [`12-official-roster-analysis.md`](12-official-roster-analysis.md) ·
+> [`data/official-roster-2026.csv`](data/official-roster-2026.csv). Where the two disagree,
+> the official file wins.
+
+**Official figures (261 startups, batches 2005–2024):**
+
+| Status | Count | Share |
+|---|---:|---:|
+| 🟢 Active | 112 | 43% |
+| 🔵 Exit | **6** | 2% |
+| 🔴 Out of Business | 143 | 55% |
+| **Still alive** | **118** | **45%** |
+
+Disclosed funding raised by alumni: **$45,084,080** across 41 startups, of which the top
+six account for 63%. Cash grants paid out by the program: **5,140,500 TL** across 71
+startups — 29% of that total in 2024 alone.
+
+**The six exits:** Onedio ($4.55M, 2013) · Inofab Health ($3.42M, 2015) · Udentify
+($236K, 2016) · Alictus (2013, into SciPlay) · Tuvis (2019) · Drive Buddy (2017).
+**Onedio is an alumnus that became a long-running sponsor** — the clearest instance of the
+program's flywheel closing.
+
+**Awards did not predict survival, now quantified:** award-winners 40% alive (0 of 6 exits);
+non-winners 50% alive (all 6 exits).
+
+---
+
+#### Prior reconstruction (retained for method, not for status)
+
+173 alumni were reconstructed from press coverage and independently status-checked. 56 of
+those flags agree with the official roster, 14 conflict, and 150 official startups were
+never in the reconstruction — see §8 of the roster analysis for the reconciliation. Full
+tracker: [`10-startup-status.md`](10-startup-status.md) ·
+[`data/startup-status.csv`](data/startup-status.csv).
 
 | Flag | Count | Share |
 |---|---:|---:|
@@ -226,8 +258,8 @@ conservatively marked UNVERIFIED until a dedicated status pass is run. Full trac
 
 Of the 97 with a determinate flag, **58% are still going in some form**.
 
-**The eleven that changed:** Alictus → **acquired by SciPlay** (the only clean exit in
-21 years) · Ddosify → **Anteon** (rebranded, pivoted to eBPF Kubernetes monitoring) ·
+**The renames and pivots:** Alictus → **acquired by SciPlay** · Ddosify → **Anteon**
+(rebranded, pivoted to eBPF Kubernetes monitoring) ·
 Akıllıfon → **Magnus** · Isıteks → **Nanovatif** (it was a product, not a company) ·
 Seyisco → **Seyis** (pothole detection → consumables management) · Blok-Z (relocated to
 Germany, 24/7 carbon-free energy) · Notrino (single ECG device → multi-sector AI/sensor R&D)

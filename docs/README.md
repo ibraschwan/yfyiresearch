@@ -24,10 +24,12 @@ Compiled: **19 August 2026**. All data is from public sources (see `08-sources.m
 | [`09-data-gaps.md`](09-data-gaps.md) | Known gaps, conflicts between sources, and confidence notes |
 | [`10-startup-status.md`](10-startup-status.md) | **Alumni status tracker** — where all 173 reconstructed startups are now, flagged ACTIVE / CHANGED / PASSIVE / UNVERIFIED |
 | [`11-2026-yfyi-strategy-and-gap-closure.md`](11-2026-yfyi-strategy-and-gap-closure.md) | **2026 strategy addendum** — new gap-search findings, remaining gaps, and a presentation-ready YFYI26 recommendation |
+| [`12-official-roster-analysis.md`](12-official-roster-analysis.md) | ⭐ **The official roster** — 261 startups with the program's own Active/Exit/Out-of-Business labels, funding, grants and sectors, plus a full reconciliation against the reconstruction. **Authoritative on status.** |
 | [`data/editions.csv`](data/editions.csv) | Machine-readable edition table |
 | [`data/awards.csv`](data/awards.csv) | Machine-readable award/winner table |
 | [`data/startups.csv`](data/startups.csv) | Machine-readable startup/cohort table |
-| [`data/startup-status.csv`](data/startup-status.csv) | Machine-readable status table — 173 rows with evidence per call |
+| [`data/startup-status.csv`](data/startup-status.csv) | Machine-readable status table — 173 rows, reconstructed, with evidence per call |
+| [`data/official-roster-2026.csv`](data/official-roster-2026.csv) | Cleaned UTF-8 copy of the official roster (261 rows) |
 
 ---
 

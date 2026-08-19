@@ -5,6 +5,16 @@
 resolution, and targeted search across startup databases (Tracxn, Crunchbase, PitchBook,
 CB Insights), Turkish tech press and company sites. Full method notes at the bottom.
 
+> ⚠️ **Superseded in part.** The program's own roster (261 startups, 2005–2024, with
+> official Active / Exit / Out of Business labels) is analysed in
+> [`12-official-roster-analysis.md`](12-official-roster-analysis.md). Where that file and
+> this one disagree, **the official file wins**. 56 of the flags below agree with it,
+> **14 conflict** (listed in §8 of the roster analysis), and 150 official startups are
+> absent here. Known corrections: Gauss and Enhencer are one company; Buyan and Burkut are
+> one company (Tulpar Arge); İndisera, Seyisco and Lonca should be dropped from CHANGED;
+> Inofab Health is an **exit**, not merely active. The method notes at the bottom of this
+> file remain valid and explain most of the 14 conflicts.
+
 ---
 
 ## Flag definitions
@@ -284,8 +294,9 @@ SRT – Solar Roof Track · TradeMate · UlakFin
 
 ## Patterns worth noting
 
-1. **One clean exit in 21 years.** Alictus → SciPlay is the only documented acquisition of a
-   YFYİ alumnus by a large strategic buyer.
+1. **Exits.** Alictus → SciPlay was the only acquisition traceable from public sources.
+   The official roster records **six** exits in total (Onedio, Inofab Health, Udentify,
+   Alictus, Tuvis, Drive Buddy) — see `12-official-roster-analysis.md` §4.
 2. **The prize does not predict survival.** Five Elginkan Grand Prize winners are dormant;
    meanwhile several non-winners (Enhencer, FineDine, Sensgreen, Deplike) became the
    best-funded alumni.
